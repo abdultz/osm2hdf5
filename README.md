@@ -41,6 +41,7 @@ node _ 16173235 {'is_capital': 'state', 'name:mr': u'\u092e\u0941\u0902\u092c\u0
 ###**2) osm2hdf5.py (Description: Converts input file of .osm.bz2 to NASA HDF5 format)**
 
 **command: `python osm2hdf5.py <infile:type:osm.bz2> <outfile:type:hdf5|h5>`**
+
 **output: None | Errors (if encountered)**
 
 Benchmark: The script took 41.88 min to convert the following to HDF5 format
