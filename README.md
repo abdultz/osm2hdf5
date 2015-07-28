@@ -2,7 +2,9 @@
 Adapted from [BitBucket](https://bitbucket.org/josemaria.alkala/)
 
 Many **GIS applications** are using **NASA HDF5**. At this moment there is no easy to use to use tool to convert from **OpenStreetMap format to NASA HDF5**, so the data from OSM can not be used freely by these applications.
+
 Tags: OSM2HDF5, OSM to HDF5, OSM 2 HDF5
+
 These scripts have been taken from and updated for use with the recent version of PyTables and other dependencies
 *[OsmReader](https://bitbucket.org/josemaria.alkala/osmreader)* and
 *[Osm2HDF5](https://bitbucket.org/josemaria.alkala/osm2hdf5)*.
